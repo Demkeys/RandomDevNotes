@@ -4,8 +4,8 @@ ___NOTE: These are notes I've made after performing tests to better understand A
 
 The examples are supposed to show how blending is done and what colors are produced after blending. You can google 'Unity Shader Blending' to learn the basics of Alpha Blending. Those are not covered in these notes. For the sake of simplicity, the scene has simple colors - a black background, a red quad, grey quad and a blue quad. The grey and blue quads are transparent. Each blend produces a different color, so each color is labeled, for example C1,C2,C3,etc. The labels are mentioned in the image, and for each blended color, the calculations are mentioned below. In each calculation, the DstFactor is the color in the frame buffer.
 - - - - - - - - - - - - - - - - - - - - - - - -
-![](https://github.com/Demkeys/RandomDevNotes/blob/master/Image01.png)
-![](https://github.com/Demkeys/RandomDevNotes/blob/master/Image02.png)
+![](https://github.com/Demkeys/RandomDevNotes/blob/master/UnityAlphaBlending/Image01.png)
+![](https://github.com/Demkeys/RandomDevNotes/blob/master/UnityAlphaBlending/Image02.png)
 - - - - - - - - - - - - - - - - - - - - - - - -
 ### Render Queues:<br/>
 Geometry: 2000 (Front to Back)<br/>
