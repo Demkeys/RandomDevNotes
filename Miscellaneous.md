@@ -1,4 +1,13 @@
 ----
+GPUs and Partial Derivatives
+
+* https://gamedev.stackexchange.com/questions/62648/what-does-ddx-hlsl-actually-do
+* https://developer.download.nvidia.com/cg/ddx.html
+
+* https://developer.nvidia.com/gpugems/gpugems/part-iv-image-processing/chapter-24-high-quality-filtering
+Complex filtering depends on knowing just how much of the texture (or shading) we need to filter. Modern GPUs such as the GeForce FX provide partial derivative functions to help us. For any value used in shading, we can ask the GPU: "How much does this value change from pixel to pixel, in either the screen-x or the screen-y direction?"
+These functions are ddx() and ddy().
+----
 When programming shaders in Unity, if you get the following error: `Program 'geom', error X8000: Validation Error: Declared output vertex count (120) multiplied by the total number of declared scalar components of output data (10) equals 1200.  This value cannot be greater than 1024.`
 
 ...it has something to do with how Geometry shaders work. Refer to these sources for answers.
