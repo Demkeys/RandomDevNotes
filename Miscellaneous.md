@@ -1,5 +1,5 @@
 ----
-Linux program execution process | What does a C program main function return to
+Linux program execution process | What does a C program main function returns to
 
 * What happens when you run a program? https://stackoverflow.com/questions/1204078/what-happens-when-you-run-a-program
 * Difference between exit() and return in main() function in C https://stackoverflow.com/questions/35471878/difference-between-exit-and-return-in-main-function-in-c
