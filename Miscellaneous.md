@@ -1,4 +1,10 @@
 ----
+Raymarching Shaders
+* Raymarching 1: The Basics https://medium.com/@ArmstrongCS/raymarching-1-the-basics-d6f3e70fb430
+* What is Ray Marching? https://computergraphics.stackexchange.com/questions/161/what-is-ray-marching-is-sphere-tracing-the-same-thing/163
+* How do Raymarch shaders work? https://gamedev.stackexchange.com/questions/67719/how-do-raymarch-shaders-work
+
+----
 Linux program execution process | What does a C program main function returns to
 
 * What happens when you run a program? https://stackoverflow.com/questions/1204078/what-happens-when-you-run-a-program
