@@ -9,5 +9,5 @@ ANSI, C and Escape Sequences
 
 Notes about escape sequences in C:
 * \x is an escape sequence whereas 0x would be a hex literal.
-* And escape sequence string can consist of chars or hex values. "\x1b[31m" can be written as "\x1b\x5b\x33\x32\x6d".
+* And escape sequence string can consist of chars or hex values. "\x1b[31m" can be written as "\x1b\x5b\x33\x32\x6d". In "\x1b[31m" 1b is hex for the ESC control code (since there is no way to enter ESC control code through the keyboard), whereas [31m are individual chars.
 ----
