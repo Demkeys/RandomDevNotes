@@ -7,6 +7,17 @@ Linux program execution process | What does a C program main function returns to
 ----
 ANSI, C and Escape Sequences
 
+* https://stackoverflow.com/questions/45612822/how-to-properly-add-hex-escapes-into-a-string-literal
+* https://stackoverflow.com/questions/38482586/unknown-escape-sequence
+* https://stackoverflow.com/questions/56284599/why-must-i-use-x1b-not-to-represent-an-escape-character
+* https://stackoverflow.com/questions/3219393/stdlib-and-colored-output-in-c
+* https://en.wikipedia.org/wiki/Escape_sequence
+* https://en.wikipedia.org/wiki/Escape_sequences_in_C#Table_of_escape_sequences
+* https://en.wikipedia.org/wiki/ANSI_C
+* https://en.wikipedia.org/wiki/ANSI_escape_code
+* https://en.wikipedia.org/wiki/Geometric_Shapes
+
+
 Notes about escape sequences in C:
 * \x is an escape sequence whereas 0x would be a hex literal.
 * And escape sequence string can consist of chars or hex values. "\x1b[31m" can be written as "\x1b\x5b\x33\x32\x6d". In "\x1b[31m" 1b is hex for the ESC control code (since there is no way to enter ESC control code through the keyboard), whereas [31m are individual chars.
