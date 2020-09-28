@@ -2,6 +2,7 @@
 Linux program execution process | What does a C program main function returns to
 
 * What happens when you run a program? https://stackoverflow.com/questions/1204078/what-happens-when-you-run-a-program
+* What happens when a computer program runs? https://stackoverflow.com/questions/5162580/what-happens-when-a-computer-program-runs
 * Difference between exit() and return in main() function in C https://stackoverflow.com/questions/35471878/difference-between-exit-and-return-in-main-function-in-c
 * Exit program x86 https://stackoverflow.com/questions/32415331/exit-program-x86
 ----
