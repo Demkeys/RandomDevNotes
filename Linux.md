@@ -32,3 +32,19 @@ Notes about escape sequences in C:
 * https://stackoverflow.com/questions/7147008/the-usage-of-anonymous-enums
 * https://stackoverflow.com/questions/10157181/in-which-situations-anonymous-enum-should-be-used
 * https://docs.microsoft.com/en-us/cpp/c-language/c-enumeration-declarations?view=vs-2019
+---
+### BIOS, UEFI, How BIOS boot works, How UEFI boot works
+* https://stackoverflow.com/questions/58002542/how-does-uefi-boot-mode-boot-flows
+* https://stackoverflow.com/questions/32223339/how-does-uefi-work
+* https://superuser.com/questions/344954/what-mode-do-modern-64-bit-intel-chip-pcs-run-the-boot-sector-in/345333#345333
+* https://superuser.com/questions/731362/how-does-efi-find-bootloaders
+* https://superuser.com/questions/496026/what-is-the-difference-in-boot-with-bios-and-boot-with-uefi
+* https://en.wikipedia.org/wiki/Real_mode
+* https://stackoverflow.com/questions/58651734/do-modern-computers-boot-in-real-mode-or-virtual-real-mode
+* https://askubuntu.com/questions/993269/difference-between-legacy-bios-and-uefi
+* https://en.wikipedia.org/wiki/Booting#Modern_boot_loaders
+* https://en.wikipedia.org/wiki/Booting#Boot_sequence
+* https://en.wikipedia.org/wiki/Comparison_of_boot_loaders
+* https://en.wikipedia.org/wiki/BIOS
+* https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface#Disk_device_compatibility
+* https://en.wikipedia.org/wiki/EFI_system_partition#Linux
