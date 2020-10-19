@@ -3,7 +3,7 @@ Raymarching Shaders
 * Raymarching 1: The Basics https://medium.com/@ArmstrongCS/raymarching-1-the-basics-d6f3e70fb430
 * What is Ray Marching? https://computergraphics.stackexchange.com/questions/161/what-is-ray-marching-is-sphere-tracing-the-same-thing/163
 * How do Raymarch shaders work? https://gamedev.stackexchange.com/questions/67719/how-do-raymarch-shaders-work
-
+* Five part series on raymarching. First part: https://medium.com/@si.ashbery/learning-to-draw-with-a-pencil-made-of-code-aa21b2a7b963
 ----
 GPUs and Partial Derivatives
 
