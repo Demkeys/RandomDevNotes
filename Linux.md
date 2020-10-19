@@ -48,3 +48,15 @@ Notes about escape sequences in C:
 * https://en.wikipedia.org/wiki/BIOS
 * https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface#Disk_device_compatibility
 * https://en.wikipedia.org/wiki/EFI_system_partition#Linux
+----
+### X11 Server, Xlib, and using X to show a window and draw shapes in the window
+* https://github.com/QMonkey/Xlib-demo (NOTE: For some reason the code provided here doesn't work as it is. The next link gives a solution to this problem.)
+* https://stackoverflow.com/questions/18098678/weird-ass-xlib-bug-xdrawstring-only-works-after-a-sleep
+* https://stackoverflow.com/questions/16835128/x-window-always-blank
+* https://stackoverflow.com/questions/16688368/how-a-draw-a-string-in-a-splash-screen-by-xlib
+* https://stackoverflow.com/questions/31286404/execution-of-sleep-in-xlib-programming
+* https://stackoverflow.com/questions/31088029/flushing-events-to-x11
+* https://stackoverflow.com/questions/45315318/xlib-wont-draw-anything
+* https://www.x.org/releases/X11R7.7/doc/libX11/libX11/libX11.html
+* https://stackoverflow.com/questions/29316148/c-x11-api-graphics-not-working-in-a-while-loop
+* https://en.wikibooks.org/wiki/X_Window_Programming/Xlib
