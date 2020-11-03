@@ -6,6 +6,16 @@
 * Difference between exit() and return in main() function in C https://stackoverflow.com/questions/35471878/difference-between-exit-and-return-in-main-function-in-c
 * Exit program x86 https://stackoverflow.com/questions/32415331/exit-program-x86
 ----
+### How an OS loads and executes a program? (Applies to Windows & Linux)
+* https://medium.com/cracking-the-data-science-interview/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f
+* https://en.wikipedia.org/wiki/Loader_(computing)
+* https://stackoverflow.com/questions/32688459/how-does-a-loader-in-operating-system-work
+* https://stackoverflow.com/questions/55786222/how-is-a-program-loaded-in-os
+* https://stackoverflow.com/questions/5570893/how-does-a-system-call-translate-to-cpu-instructions
+* https://stackoverflow.com/questions/31722881/is-an-entire-static-program-loaded-into-memory-when-launched
+* https://stackoverflow.com/questions/1599434/how-does-program-execute-where-does-the-operating-systems-come-into-play
+* https://stackoverflow.com/questions/12931632/how-does-os-execute-compiled-binary-files
+----
 ### ANSI, C and Escape Sequences
 
 * https://stackoverflow.com/questions/45612822/how-to-properly-add-hex-escapes-into-a-string-literal
@@ -60,3 +70,8 @@ Notes about escape sequences in C:
 * https://www.x.org/releases/X11R7.7/doc/libX11/libX11/libX11.html
 * https://stackoverflow.com/questions/29316148/c-x11-api-graphics-not-working-in-a-while-loop
 * https://en.wikibooks.org/wiki/X_Window_Programming/Xlib
+----
+### Using DirectX libraries with C
+* https://gamedev.stackexchange.com/questions/62690/is-it-possible-to-use-directx-in-pure-c-program
+* Quake, example of a game written in C that uses DirectX: https://github.com/id-Software/Quake
+* https://stackoverflow.com/questions/4696079/directx-programming-in-c
