@@ -75,3 +75,7 @@ Notes about escape sequences in C:
 * https://gamedev.stackexchange.com/questions/62690/is-it-possible-to-use-directx-in-pure-c-program
 * Quake, example of a game written in C that uses DirectX: https://github.com/id-Software/Quake
 * https://stackoverflow.com/questions/4696079/directx-programming-in-c
+----
+### Writing an x86 bootloader
+* https://medium.com/@g33konaut/writing-an-x86-hello-world-boot-loader-with-assembly-3e4c5bdd96cf
+* This is my repo with some basic bootloader examples: https://github.com/Demkeys/x86-Assembly-ATT-Bootloaders
