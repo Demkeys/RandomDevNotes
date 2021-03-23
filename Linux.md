@@ -15,6 +15,7 @@
 * https://stackoverflow.com/questions/31722881/is-an-entire-static-program-loaded-into-memory-when-launched
 * https://stackoverflow.com/questions/1599434/how-does-program-execute-where-does-the-operating-systems-come-into-play
 * https://stackoverflow.com/questions/12931632/how-does-os-execute-compiled-binary-files
+* https://stackoverflow.com/questions/1599434/how-does-program-execute-where-does-the-operating-systems-come-into-play
 ----
 ### ANSI, C and Escape Sequences
 
