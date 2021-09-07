@@ -6,4 +6,4 @@ A bunch of random dev related research notes, for personal referece, and for who
 * [Miscellaneous](https://github.com/Demkeys/RandomDevNotes/blob/master/Miscellaneous.md)
 * [Math](https://github.com/Demkeys/RandomDevNotes/blob/master/Math.md)
 * [Linux](https://github.com/Demkeys/RandomDevNotes/blob/master/Linux.md)
-* [Networking] (https://github.com/Demkeys/RandomDevNotes/blob/master/Networking.md)
+* [Networking](https://github.com/Demkeys/RandomDevNotes/blob/master/Networking.md)
