@@ -12,3 +12,7 @@ Unity Coroutines
 * WaitForSeconds: https://docs.unity3d.com/ScriptReference/WaitForSeconds.html
 * AsyncOperation: https://docs.unity3d.com/ScriptReference/AsyncOperation.html
 ----
+glTF File Format:
+* glTF 2.0 Spec: https://www.khronos.org/registry/glTF/specs/2.0/glTF-2.0.html
+* glTF Overview repo: https://github.com/KhronosGroup/glTF
+* glTF Tutorial repo: https://github.com/KhronosGroup/glTF-Tutorials
