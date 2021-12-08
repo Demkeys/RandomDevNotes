@@ -16,3 +16,8 @@ glTF File Format:
 * glTF 2.0 Spec: https://www.khronos.org/registry/glTF/specs/2.0/glTF-2.0.html
 * glTF Overview repo: https://github.com/KhronosGroup/glTF
 * glTF Tutorial repo: https://github.com/KhronosGroup/glTF-Tutorials
+----
+### Kernel and Driver
+* Difference between Kernel and Driver: https://stackoverflow.com/questions/30953314/what-is-difference-between-kernel-and-driver
+* User mode and Kernel mode: https://docs.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/user-mode-and-kernel-mode
+---
