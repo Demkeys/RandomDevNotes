@@ -46,8 +46,8 @@ In computer graphics, mipmaps (also MIP maps) or pyramids[1][2][3] are pre-calcu
 ----
 Unity Depth Textures
 
-Cameras and Depth Textures: https://docs.unity3d.com/Manual/SL-CameraDepthTexture.html
-Using Depth Textures: https://docs.unity3d.com/2019.3/Documentation/Manual/SL-DepthTextures.html
-LinearEyeDepth and Linear01Depth explanations: https://forum.unity.com/threads/decodedepthnormal-linear01depth-lineareyedepth-explanations.608452/
+* Cameras and Depth Textures: https://docs.unity3d.com/Manual/SL-CameraDepthTexture.html
+* Using Depth Textures: https://docs.unity3d.com/2019.3/Documentation/Manual/SL-DepthTextures.html
+* LinearEyeDepth and Linear01Depth explanations: https://forum.unity.com/threads/decodedepthnormal-linear01depth-lineareyedepth-explanations.608452/
 
 ----
