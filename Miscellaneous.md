@@ -22,4 +22,4 @@ glTF File Format:
 * User mode and Kernel mode: https://docs.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/user-mode-and-kernel-mode
 ---
 ### Powershell
-* Calling a .Net namespace in PS: User [] for the namespace and :: to call the method. For example, [System.Convert]::ToString().
+* Calling methods from a .Net namespace in PS: Use [] for the namespace and class. Then use :: to call the method. For example, [System.Convert]::ToString().
