@@ -21,3 +21,5 @@ glTF File Format:
 * Difference between Kernel and Driver: https://stackoverflow.com/questions/30953314/what-is-difference-between-kernel-and-driver
 * User mode and Kernel mode: https://docs.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/user-mode-and-kernel-mode
 ---
+### Powershell
+* Calling a .Net namespace in PS: User [] for the namespace and :: to call the method. For example, [System.Convert]::ToString().
