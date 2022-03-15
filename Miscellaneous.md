@@ -34,6 +34,7 @@ To copy the Ubuntu Core image over to the SD card you have to use the dd command
 * Zero out the SD card using 'dd if=/dev/zero of=/dev/sdb1 bs=8192'.
 * Create file system on device using 'mkfs.vfat /dev/sdb1'.
 * Additional: Before creating the file system, if you want to create partitions you can use 'parted' to do that. Note that while this creates partition(s), it doesn't necessarily create a file system on the device, so you'll still need to do that separately.
+
 After completing these steps, the device should show up as a storage device in your PC and/or Phone.
 Some useful links:
 * https://askubuntu.com/questions/929787/bricked-my-sd-card-while-using-dd
