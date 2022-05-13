@@ -80,3 +80,6 @@ Notes about escape sequences in C:
 ### Writing an x86 bootloader (GAS syntax, run in QEMU)
 * https://medium.com/@g33konaut/writing-an-x86-hello-world-boot-loader-with-assembly-3e4c5bdd96cf
 * This is my repo with some basic bootloader examples: https://github.com/Demkeys/x86-Assembly-ATT-Bootloaders
+----
+### Terminal vs Console vs Shell
+* https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con
