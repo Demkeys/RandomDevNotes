@@ -7,3 +7,4 @@ A bunch of random dev related research notes, for personal referece, and for who
 * [Math](https://github.com/Demkeys/RandomDevNotes/blob/master/Math.md)
 * [Linux](https://github.com/Demkeys/RandomDevNotes/blob/master/Linux.md)
 * [Networking](https://github.com/Demkeys/RandomDevNotes/blob/master/Networking.md)
+* [P/Invoke and Win32](https://github.com/Demkeys/RandomDevNotes/blob/master/PInvokeAndWin32.md)
