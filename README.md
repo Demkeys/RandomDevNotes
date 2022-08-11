@@ -8,3 +8,4 @@ A bunch of random dev related research notes, for personal referece, and for who
 * [Linux](https://github.com/Demkeys/RandomDevNotes/blob/master/Linux.md)
 * [Networking](https://github.com/Demkeys/RandomDevNotes/blob/master/Networking.md)
 * [P/Invoke and Win32](https://github.com/Demkeys/RandomDevNotes/blob/master/PInvokeAndWin32.md)
+* [3D Modeling and 3D Modeling Apps](https://github.com/Demkeys/RandomDevNotes/blob/master/3DArt.md)
