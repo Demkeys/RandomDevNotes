@@ -83,3 +83,14 @@ Notes about escape sequences in C:
 ----
 ### Terminal vs Console vs Shell
 * https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con
+----
+### Linux bootable USB fails to boot on some older hardware
+NOTE: One possible solution is to add 'nomodeset' in GRUB boot options before booting.
+* https://www.dell.com/support/kbdoc/en-au/000123893/manual-nomodeset-kernel-boot-line-option-for-linux-booting
+* https://askubuntu.com/questions/207175/what-does-nomodeset-do
+* https://askubuntu.com/questions/1024895/why-do-i-need-to-replace-quiet-splash-with-nomodeset
+* https://askubuntu.com/questions/716957/what-do-the-nomodeset-quiet-and-splash-kernel-parameters-mean
+----
+### While booting Linux from bootable USB, among other messages there's an error message sauing "error no ums support in radeon module"
+NOTE: The OS may very well still boot, but these are some possible explanations about what the message means:
+* https://askubuntu.com/questions/827678/no-ums-support-in-radeon-module-error-when-booting-to-the-ubuntu-16-04-1-insta
